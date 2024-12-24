@@ -20,5 +20,5 @@ GoInject is not an alternative to other DI solutions — it’s a purpose-built 
 Install GoInject easily with `go get`:
 
 ```bash
-go get github.com/fobus1289/GoInject
+go get github.com/fobus1289/goInject
 ```
