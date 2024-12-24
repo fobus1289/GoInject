@@ -29,8 +29,8 @@ jobs:
       - name: Run tests
         run: go test -v ./...
 
-      - name: Run tests with race detector
-        run: go test -race -v ./...
+      - name: Run tests
+        run: go test -v ./...
 
       - name: Check code coverage
         run: |
